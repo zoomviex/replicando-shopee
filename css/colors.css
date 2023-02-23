@@ -1,0 +1,55 @@
+/* cores */
+.yellow{
+    color: yellow;
+}
+.orange{
+    color: #f84b2f;
+}
+
+.orange-dark {
+    color: rgb(236, 34, 22);
+}
+
+.green-truck{
+    color: #00ad99;
+}
+
+.white {
+    color: #ffffff;
+}
+
+.dark {
+    color: #222;
+}
+
+.gray{
+    color: rgba(238, 238, 238, 0.699);
+}
+
+.gray-dark{
+    color: #767676;
+}
+
+.bg-light-orange{
+   background-color: #ffeee8;
+}
+
+.bg-gray{
+    background-color: rgba(238, 238, 238, 0.699);
+}
+
+.bg-orange {
+    background-color: #f84b2f;
+}
+
+.bg-orange-dark {
+    background-color: #ec2216;
+}
+
+.bg-white {
+    background-color: #eee;
+}
+
+.bg-dark {
+    background-color: #222;
+}
